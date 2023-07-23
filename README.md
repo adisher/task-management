@@ -55,7 +55,7 @@ Unit tests can be run by executing the following command:
 
 ```sh
 ./vendor/bin/phpunit
-
+    ```
 ## Running the Vue.js Frontend
  ```sh
     cd frontend
