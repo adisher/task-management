@@ -17,7 +17,7 @@ Once you've downloaded the repository and installed all the prerequisites, you'r
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/task-management.git
+    git clone https://github.com/adisher/task-management.git
     ```
 2. Change directory to the app's directory:
     ```sh
@@ -55,3 +55,16 @@ Unit tests can be run by executing the following command:
 
 ```sh
 ./vendor/bin/phpunit
+
+## Running the Vue.js Frontend
+ ```sh
+    cd frontend
+    ```
+Install the dependencies with npm:
+```sh
+    npm install
+    ```
+To start the development server, run:
+```sh
+    npm run serve
+    ```
