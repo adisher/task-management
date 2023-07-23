@@ -59,12 +59,12 @@ Unit tests can be run by executing the following command:
 ## Running the Vue.js Frontend
  ```sh
     cd frontend
-    ```
+ ```
 Install the dependencies with npm:
 ```sh
     npm install
-    ```
+```
 To start the development server, run:
 ```sh
     npm run serve
-    ```
+```
